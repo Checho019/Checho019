@@ -2,7 +2,7 @@
 
 I am a software Engineer.
 
-I have 20.
+I am 20.
 
 I don't know what i want but never mind 🤡
 
