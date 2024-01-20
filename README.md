@@ -1,4 +1,4 @@
-<h1 align="center">Bienvenido a mi repositorio. Soy Sergio Duarte 👋🏻👋🏻</h1>
+<h1 align="center">Bienvenido a mi repositorio 🎉. Soy Sergio Duarte 👋🏻👋🏻</h1>
 <h3 align="center">Soy un apasionado ingeniero de Software en Bogotá, Colombia 👨‍💻</h3>
 <div align="center">
   <h3>⭐ Lenguajes ⭐</h3>
@@ -32,7 +32,6 @@
   <img title="Webpack" alt="Webpack" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/webpack/webpack.png">
   <img title="Linux" alt="Linux" width="55px" src="https://brandslogos.com/wp-content/uploads/images/linux-tux-logo.png">
   <img title="GCP" alt="GCP" width="55px" src="https://www.sophos.com/sites/default/files/2022-02/googlecloud.png">
-  
   
 </div>
 
