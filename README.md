@@ -1,4 +1,4 @@
-<h1 align="center">Bienvenido a mi repositorio 🎉. Soy Sergio Duarte 👋🏻👋🏻</h1>
+<h1 align="center">🎉 Bienvenido a mi repositorio 🎉</h1>
 <h3 align="center">Soy un apasionado ingeniero de Software en Bogotá, Colombia 👨‍💻</h3>
 <div align="center">
   <h3>⭐ Lenguajes ⭐</h3>
