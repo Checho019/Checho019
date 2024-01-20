@@ -1,12 +1,12 @@
-<h1 align="center">Bienvenido a mi repositorio 👋🏻, soy Sergio Duarte 🤓</h1>
-<h3 align="center">Soy un apasionado ingeniero de Software 👨‍💻🇨🇴</h3>
+<h1 align="center">Bienvenido a mi repositorio, soy Sergio Duarte 👋🏻👋🏻</h1>
+<h3 align="center">Soy un apasionado ingeniero de Software de Bogotá, Colombia 👨‍💻</h3>
 <br>
 <h4 align="center"> ⚡ Tecnologias </h4>
 <hr>
 <h5 align="center"> 🔠 Lenguajes </h5>
 <p align="center">
-|<img title="Java" alt="Java" width="55px" src="https://brandslogos.com/wp-content/uploads/images/java-logo-1.png">
-|<img title="JavaScript" alt="JavaScript" width="55px" src="https://brandslogos.com/wp-content/uploads/thumbs/javascript-logo.png)>
+| <img title="Java" alt="Java" width="55px" src="https://brandslogos.com/wp-content/uploads/images/java-logo-1.png"> |
+| <img title="JavaScript" alt="JavaScript" width="55px" src="https://brandslogos.com/wp-content/uploads/thumbs/javascript-logo.png"> |
 </p>
 
 <!--
