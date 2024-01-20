@@ -15,7 +15,7 @@
   <img title="MariaDB" alt="MariaDB" width="55px" src="https://brandslogos.com/wp-content/uploads/images/large/mariadb-logo.png">
   <img title="MongoDB" alt="MongoDB" width="55px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mongodb_logo_icon_170943.png">
 
-  <h3>⭐ Frameworks y librerias ⭐</h3>
+  <h3>⭐ Frameworks y librerías ⭐</h3>
   <img title="Spring" alt="Spring" width="55px" src="https://brandslogos.com/wp-content/uploads/images/spring-logo.png">
   <img title="Node" alt="Node" width="55px" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png">
   <img title="Express" alt="Express" width="55px" src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png">
